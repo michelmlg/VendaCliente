@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aizaw\\OneDrive\\Documentos\\GitHub\\VendaCliente\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD358FC2-11CB-40C4-978C-8B6138B0445C}|Prova\\Prova.csproj|C:\\Users\\aizaw\\OneDrive\\Documentos\\GitHub\\VendaCliente\\prova\\bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD358FC2-11CB-40C4-978C-8B6138B0445C}|Prova\\Prova.csproj|solutionrelative:prova\\bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD358FC2-11CB-40C4-978C-8B6138B0445C}|Prova\\Prova.csproj|c:\\users\\aizaw\\onedrive\\documentos\\github\\vendacliente\\prova\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD358FC2-11CB-40C4-978C-8B6138B0445C}|Prova\\Prova.csproj|solutionrelative:prova\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD358FC2-11CB-40C4-978C-8B6138B0445C}|Prova\\Prova.csproj|C:\\Users\\aizaw\\OneDrive\\Documentos\\GitHub\\VendaCliente\\prova\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD358FC2-11CB-40C4-978C-8B6138B0445C}|Prova\\Prova.csproj|solutionrelative:prova\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD358FC2-11CB-40C4-978C-8B6138B0445C}|Prova\\Prova.csproj|C:\\Users\\aizaw\\OneDrive\\Documentos\\GitHub\\VendaCliente\\prova\\vendacliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD358FC2-11CB-40C4-978C-8B6138B0445C}|Prova\\Prova.csproj|solutionrelative:prova\\vendacliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD358FC2-11CB-40C4-978C-8B6138B0445C}|Prova\\Prova.csproj|C:\\Users\\aizaw\\OneDrive\\Documentos\\GitHub\\VendaCliente\\prova\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD358FC2-11CB-40C4-978C-8B6138B0445C}|Prova\\Prova.csproj|solutionrelative:prova\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD358FC2-11CB-40C4-978C-8B6138B0445C}|Prova\\Prova.csproj|C:\\Users\\aizaw\\OneDrive\\Documentos\\GitHub\\VendaCliente\\prova\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD358FC2-11CB-40C4-978C-8B6138B0445C}|Prova\\Prova.csproj|solutionrelative:prova\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DAL.cs",
+              "DocumentMoniker": "C:\\Users\\aizaw\\OneDrive\\Documentos\\GitHub\\VendaCliente\\Prova\\DAL.cs",
+              "RelativeDocumentMoniker": "Prova\\DAL.cs",
+              "ToolTip": "C:\\Users\\aizaw\\OneDrive\\Documentos\\GitHub\\VendaCliente\\Prova\\DAL.cs",
+              "RelativeToolTip": "Prova\\DAL.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAewDsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T03:02:57.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\aizaw\\OneDrive\\Documentos\\GitHub\\VendaCliente\\Prova\\Cliente.cs",
+              "RelativeDocumentMoniker": "Prova\\Cliente.cs",
+              "ToolTip": "C:\\Users\\aizaw\\OneDrive\\Documentos\\GitHub\\VendaCliente\\Prova\\Cliente.cs",
+              "RelativeToolTip": "Prova\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T03:02:57.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VendaCliente.cs",
+              "DocumentMoniker": "C:\\Users\\aizaw\\OneDrive\\Documentos\\GitHub\\VendaCliente\\Prova\\VendaCliente.cs",
+              "RelativeDocumentMoniker": "Prova\\VendaCliente.cs",
+              "ToolTip": "C:\\Users\\aizaw\\OneDrive\\Documentos\\GitHub\\VendaCliente\\Prova\\VendaCliente.cs",
+              "RelativeToolTip": "Prova\\VendaCliente.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T03:02:57.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BLL.cs",
+              "DocumentMoniker": "C:\\Users\\aizaw\\OneDrive\\Documentos\\GitHub\\VendaCliente\\Prova\\BLL.cs",
+              "RelativeDocumentMoniker": "Prova\\BLL.cs",
+              "ToolTip": "C:\\Users\\aizaw\\OneDrive\\Documentos\\GitHub\\VendaCliente\\Prova\\BLL.cs",
+              "RelativeToolTip": "Prova\\BLL.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAjwC0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T03:02:57.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\aizaw\\OneDrive\\Documentos\\GitHub\\VendaCliente\\Prova\\Form1.cs",
+              "RelativeDocumentMoniker": "Prova\\Form1.cs",
+              "ToolTip": "C:\\Users\\aizaw\\OneDrive\\Documentos\\GitHub\\VendaCliente\\Prova\\Form1.cs",
+              "RelativeToolTip": "Prova\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T03:02:57.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aizaw\\OneDrive\\Documentos\\GitHub\\VendaCliente\\Prova\\Form1.cs",
+              "RelativeDocumentMoniker": "Prova\\Form1.cs",
+              "ToolTip": "F:\\1. Faculdade\\3. Terceiro Semestre\\Pr\u00E1tica de Programa\u00E7\u00E3o\\4. Aula\\TP04\\Solucao_TPs\\Primeiro Exercicio\\PrimeiroExercicio\\Prova\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T03:02:57.723Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
